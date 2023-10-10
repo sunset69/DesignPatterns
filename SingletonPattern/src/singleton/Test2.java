@@ -1,6 +1,7 @@
 package singleton;
 
-import cc.lexur.design.singleton.singleton.EagerSingleton;
+
+import singleton.singleton.EagerSingleton;
 
 public class Test2 {
     public static void main(String[] args) {
