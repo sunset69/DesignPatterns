@@ -1,2 +1,27 @@
-# DesignPatterns
-设计模式学习
+# 设计模式学习
+
+## 学习进度
+- [x] 单例模式 (Singleton)
+- [ ] 工厂方法模式 (Factory Method)
+- [ ] 抽象工厂模式 (Abstract Factory)
+- [ ] 建造者模式 (Builder)
+- [ ] 原型模式 (Prototype)
+- [ ] 适配器模式 (Adapter)
+- [ ] 桥接模式 (Bridge)
+- [ ] 组合模式 (Composite)
+- [ ] 装饰者模式 (Decorator)
+- [ ] 外观模式 (Facade)
+- [ ] 享元模式 (Flyweight)
+- [ ] 代理模式 (Proxy)
+- [x] 观察者模式 (Observer)
+- [ ] 备忘录模式 (Memento)
+- [ ] 状态模式 (State)
+- [ ] 策略模式 (Strategy)
+- [ ] 职责链模式 (Chain of Responsibility)
+- [ ] 命令模式 (Command)
+- [ ] 访问者模式 (Visitor)
+- [ ] 中介者模式 (Mediator)
+- [ ] 迭代器模式 (Iterator)
+- [ ] 模板方法模式 (Template Method)
+- [ ] 解释器模式 (Interpreter)
+
