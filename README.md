@@ -1,11 +1,11 @@
 # 设计模式学习
 
 ## 学习进度
-- [x] 单例模式 (Singleton)
-- [ ] 工厂方法模式 (Factory Method)
-- [ ] 抽象工厂模式 (Abstract Factory)
-- [x] 建造者模式 (Builder)
-- [ ] 原型模式 (Prototype)
+- [x] [单例模式 (Singleton)](./SingletonPattern)
+- [x] [工厂方法模式 (Factory Method)](./FactoryPattern/src/factory/factory)
+- [x] [抽象工厂模式 (Abstract Factory)](./FactoryPattern/src/factory/abstractfactory)
+- [x] [建造者模式 (Builder)](./BuilderPattern)
+- [x] [原型模式 (Prototype)](./PrototypePattern)
 - [ ] 适配器模式 (Adapter)
 - [ ] 桥接模式 (Bridge)
 - [ ] 组合模式 (Composite)
@@ -13,7 +13,7 @@
 - [ ] 外观模式 (Facade)
 - [ ] 享元模式 (Flyweight)
 - [ ] 代理模式 (Proxy)
-- [x] 观察者模式 (Observer)
+- [x] [观察者模式 (Observer)](./ObserverPattern)
 - [ ] 备忘录模式 (Memento)
 - [ ] 状态模式 (State)
 - [ ] 策略模式 (Strategy)
