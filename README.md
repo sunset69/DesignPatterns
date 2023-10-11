@@ -2,9 +2,9 @@
 
 ## 学习进度
 - [x] 单例模式 (Singleton)
-- [ ] 工厂方法模式 (Factory Method)
+- [x] 工厂方法模式 (Factory Method)
 - [ ] 抽象工厂模式 (Abstract Factory)
-- [x] 建造者模式 (Builder)
+- [ ] 建造者模式 (Builder)
 - [ ] 原型模式 (Prototype)
 - [ ] 适配器模式 (Adapter)
 - [ ] 桥接模式 (Bridge)
